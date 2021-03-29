@@ -1,0 +1,15 @@
+City,Total Days,Poor Days,AQI Median,Zone
+Seattle,306,14,42,west
+San Francisco,314,22,45,west
+Los Angeles,275,119,81,west
+Denver,366,34,58,mountain
+Salt Lake City,366,21,50,mountain
+Phoenix,366,70,75,mountain
+Chicago,366,28,56,central
+St. Louis,366,10,52,central
+Dallas,306,24,49,central
+Boston,306,0,42,east
+Washington D.C.,366,3,42,east
+Miami,275,2,44,east
+Pittsburg,366,14,49,east
+Syracuse,366,0,36,east
